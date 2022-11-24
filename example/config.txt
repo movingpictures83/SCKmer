@@ -1,0 +1,2 @@
+Prefix plugins/SCKmer/example/
+Plugin SCKmer inputfile parameters.sckmer.txt outputfile ./
